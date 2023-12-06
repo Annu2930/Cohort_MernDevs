@@ -1,0 +1,15 @@
+.mainnavbar{
+  display:flex;
+  justify-content:space-evenly;
+}
+nav {
+  background-color: red;
+
+}
+
+nav ul li{
+  float: left;
+  padding: 20px;
+
+
+}
